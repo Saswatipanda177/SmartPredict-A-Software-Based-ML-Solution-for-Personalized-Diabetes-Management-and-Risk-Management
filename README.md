@@ -1,0 +1,1 @@
+# SmartPredict-A-Software-Based-ML-Solution-for-Personalized-Diabetes-Management-and-Risk-Management
